@@ -1,10 +1,10 @@
 {
-	  "defaultCommand": "unzip",
-	    "commands": {
-		        "unzip": {
-				      "scriptType": "bash",
-				            "scriptPath": "unzip.sh",
-					          "vars": {}
-						      }
-						        }
+  "defaultCommand": "zip",
+  "commands": {
+    "zip": {
+      "scriptType": "bash",
+      "scriptPath": "zip.sh",
+      "vars": {}
+    }
+  }
 }
